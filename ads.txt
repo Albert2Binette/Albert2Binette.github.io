@@ -3,5 +3,5 @@
     <string name="app_id" translatable="false">ca-app-pub-3287681757387988~3362634312</string>
     <string name="banner_unit_id" translatable="false">ca-app-pub-3287681757387988/4797492140</string>
     <string name="interstitial_unit_id" translatable="false">ca-app-pub-3287681757387988/7149033754</string>
-    <string name="rewarded_unit_id" translatable="false">ca-app-pub-3287681757387988/2049552640</string>
+    <string name="rewarded_unit_id" translatable="false">ca-app-pub-3287681757387988/9977095818</string>
 </resources>
